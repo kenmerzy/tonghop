@@ -12,8 +12,12 @@
   <img src="./screenshots/todo/todo2.png" width="32%">
   <img src="./screenshots/todo/todo3.png" width="32%">
   <img src="./screenshots/todo/todo4.png" width="32%">
+</div>
 
-
+## BMI Calculator
+<div style= "display:flex; justify-content:space-between">
+  <img src="./screenshots/BMICalculator/bmi1.png" width="32%">
+  <img src="./screenshots/BMICalculator/bmi2.png" width="32%">
 </div>
 
 
